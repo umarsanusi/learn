@@ -24,3 +24,4 @@ error Command failed with exit code 1.
 6. Make your changes
 7. Make a PR
 8. Bask in the glory of your accomplishments
+9.
